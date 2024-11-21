@@ -1,7 +1,7 @@
 {
   "author": "Vivek",
   "description": "Simple Java Snippets",
-  "enabled": true,
+  "enabled": false,
   "name": "Java Snippets",
   "packageName": "com.itsvks.java.snippet",
   "scripts": [
